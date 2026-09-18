@@ -37,3 +37,10 @@ The specific objectives of the project are to:
 5. Execute and test the program successfully without runtime errors.
 6. Document the project's functionality, setup process, technical details, and testing results.
 7. Demonstrate the completed project through a GitHub repository.
+
+## 4. Visual Documentation
+
+The following screenshot demonstrates the successful execution
+of the Personal Introduction Program using Jupyter Notebook 7.5.7.
+
+![Personal Introduction Program Output](screenshot.png)
